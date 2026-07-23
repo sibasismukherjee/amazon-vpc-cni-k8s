@@ -1,0 +1,23 @@
+pkg/utils/logger/logger.go
+  s_c05123f867b7a2::t_2c8232c5930b06 53-54,56,58-61,64-67,69-71
+  s_c05123f867b7a2::t_61f0ef37423f84 17-23
+pkg/utils/logger/logger_test.go
+  s_c05123f867b7a2::t_537665ca9a219e 41,43-44,48-67
+  s_c05123f867b7a2::t_663af74cfa87f2 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "9b4c6947fa5c9247006df1a4a0eec68f0173f25c",
+  "prompts": {},
+  "sessions": {
+    "s_c05123f867b7a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a91c7ea1-fa94-4adb-9070-4dda46e53c06",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "sibasismukherjee <sibasis.mukherjee@deliveryhero.com>"
+    }
+  }
+}
