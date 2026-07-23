@@ -1,0 +1,21 @@
+pkg/utils/logger/logger_test.go
+  s_c05123f867b7a2::t_f2a1f1170f7867 18,41,43-44,48-67
+pkg/utils/logger/logger.go
+  s_c05123f867b7a2::t_cba407befce49a 17-23,53-54,56,58-61,64-67,69-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "f07e101ff37268b945c9ac453bec571172c4160e",
+  "prompts": {},
+  "sessions": {
+    "s_c05123f867b7a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a91c7ea1-fa94-4adb-9070-4dda46e53c06",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "sibasismukherjee <mukherjee.sibasis@yahoo.com>"
+    }
+  }
+}
